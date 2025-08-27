@@ -33,7 +33,7 @@ Follow these steps to clone and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/churchangel90/foodfeeding.git
+git clone https://github.com/churchangel90/foody.git
 cd app
 
 ```
